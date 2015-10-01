@@ -2,3 +2,5 @@
 
 * chikoski
 
+githubのユーザー名
+yasuteru0503
